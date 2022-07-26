@@ -1,0 +1,67 @@
+{
+  "id" : "https://sunyanling123.github.io/ben-cao-gang-mu/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in sunyanling123/ben-cao-gang-mu project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3421,
+    "id" : "https://sunyanling123.github.io/ben-cao-gang-mu/images/30/canvas/",
+    "label" : {
+      "none" : [ "30" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://sunyanling123.github.io/ben-cao-gang-mu/images/30/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://sunyanling123.github.io/ben-cao-gang-mu/images/30/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 107,
+              "height" : 92
+            }, {
+              "width" : 214,
+              "height" : 183
+            }, {
+              "width" : 428,
+              "height" : 366
+            }, {
+              "width" : 856,
+              "height" : 731
+            }, {
+              "width" : 1711,
+              "height" : 1462
+            }, {
+              "width" : 3421,
+              "height" : 2923
+            } ],
+            "profile" : "level0",
+            "width" : 3421,
+            "id" : "https://sunyanling123.github.io/ben-cao-gang-mu/images/30",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2923
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3421,
+          "id" : "https://sunyanling123.github.io/ben-cao-gang-mu/images/30/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2923
+        },
+        "target" : "https://sunyanling123.github.io/ben-cao-gang-mu/images/30/canvas/"
+      } ]
+    } ],
+    "height" : 2923
+  } ]
+}
