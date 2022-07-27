@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/perface.json",
-    "label" : "Ben cao gang mu : wu shi er juan, tu san juan, Wan fang zhen xian ba juan"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/volume-1.json",
     "label" : "Ben cao gang mu : wu shi er juan, tu san juan, Wan fang zhen xian ba juan"
   } ]
