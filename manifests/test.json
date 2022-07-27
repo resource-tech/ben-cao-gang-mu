@@ -1,0 +1,53 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/test.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://3c510056-32db-4790-b30e-72e3d3cd95e7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://cb45387d-57c7-46d4-a279-6fd999af25be",
+      "@type" : "sc:Canvas",
+      "label" : "第1页",
+      "height" : 2852,
+      "width" : 3314,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f9bccb44-8c07-4e76-948c-ecc1c9bcbec5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A000:00001a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A000:00001a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2852,
+          "width" : 3314
+        },
+        "on" : "http://cb45387d-57c7-46d4-a279-6fd999af25be"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
