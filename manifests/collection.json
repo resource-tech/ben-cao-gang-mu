@@ -9,9 +9,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/test.json",
     "label" : "[Click to edit label]"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/bencao.json",
-    "label" : "Ben cao gang mu : wu shi er juan, tu san juan, Wan fang zhen xian ba juan"
   } ]
 }
