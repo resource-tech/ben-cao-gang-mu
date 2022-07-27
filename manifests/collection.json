@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/perface.json",
-    "label" : "本草纲目：前言"
-  } ]
+  "items" : [ ]
 }
