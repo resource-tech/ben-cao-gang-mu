@@ -1,0 +1,1653 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/volume-1.json",
+  "@type" : "sc:Manifest",
+  "attribution" : "Provided by the Library of Congress",
+  "description" : "Title from caption. In 8 cases. LC copy brittle. Also available in digital form on the Library of Congress Web site. Gift The Emperor of China June 1869. 清順治十二年錢塘吳毓昌刻本 四周單邊 白口 黑單魚尾 版匡高21.3寬14.2公分 全書高24.5寬15.5公分 黃紙. 九行二十字 小字雙行同. Nine lines, with twenty characters per line; small characters in paired lines of twenty characters per line. Book plate on each case: Presented to the Government of the United States of America by His Majesty the Emperor of China, June, 1869. 本草綱目. Pun Ts'ao Kang Muh. Chinese herbal and materia medica, by Li Shi-chin. Edition of 1656. 48 vols. 王重民著錄：舊題:「蘄陽李時珍東璧父編輯，蘇郡張鶴翥雲中較訂，弟鷟翼青萬同參。」按時珍事蹟具《明史》方技傳，是編取各家《本草》，薈聚成書，搜羅群籍，貫串百氏，集本草之大成。其書初刻於萬曆間，王世貞為之序，其子建元又獻之於朝，有進疏一篇，冠於卷首，至清順治乙未，錢塘吳毓昌重訂付梓，即此本也。卷後附蔡烈先《本草萬方鍼線》八卷，《本草藥品總目》一卷（按：原書現置於正文前），乾隆四十九年金閶書業堂刊本也。吳太冲(序) 順治乙未(1655)，吳毓昌(序) 順治乙未(1655)，錢蔚起(小引)崇禎庚辰(1640)，李建元(疏)萬曆二十四年(1596). 冊 1-2. 圖 -- 冊 3-6. 萬方緘缐 : 八卷 / 蔡烈先輯. [金閶] : 金閶書業堂鎸藏,乾隆49 [1784] -- 冊 7-48. 本草綱目.",
+  "label" : "Ben cao gang mu : wu shi er juan, tu san juan, Wan fang zhen xian ba juan",
+  "logo" : "https://loc.gov/static/images/logo-loc-new-branding.svg",
+  "metadata" : [ {
+    "label" : "APA Citation Style",
+    "value" : "LI, S., Wu, Y., Wu, X., Qian, W., LI, J., Cai, L. &amp; Chinese Rare Book Collection. (1655) <cite>Ben cao gang mu: wu shi er juan, tu san juan, Wan fang zhen xian ba juan</cite>. [Qiantang: Wu Yuchang, Qing Shunzhi yi wei 12 nian] [Image] Retrieved from the Library of Congress, https://www.loc.gov/item/2012402594/."
+  }, {
+    "label" : "MLA Citation Style",
+    "value" : "Li, Shizhen, Bian Ji, et al. <cite>Ben cao gang mu: wu shi er juan, tu san juan, Wan fang zhen xian ba juan</cite>. [Qiantang: Wu Yuchang, Qing Shunzhi yi wei 12 nian, 1655] Image. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2012402594/&gt;."
+  }, {
+    "label" : "Chicago Citation Style",
+    "value" : "Li, Shizhen, Bian Ji, Yuchang Wu, XI Wu, Weiqi Qian, Jianyuan LI, Liexian Cai, and  Chinese Rare Book Collection. <cite>Ben cao gang mu: wu shi er juan, tu san juan, Wan fang zhen xian ba juan</cite>. [Qiantang: Wu Yuchang, Qing Shunzhi yi wei 12 nian, 1655] Image. https://www.loc.gov/item/2012402594/."
+  }, {
+    "label" : "Contributors",
+    "value" : [ "Li, Shizhen, 1518-1593, bian ji.", "Wu, Yuchang, active 17th century, ke.", "Wu, Xi, 1710- , xu.", "Qian, Weiqi, active 1640, xiao yin.", "Li, Jianyuan, shu.", "Cai, Liexian, active 17th century-18th century.", "Chinese Rare Book Collection (Library of Congress)." ]
+  }, {
+    "label" : "Created Published",
+    "value" : [ "Qiantang : Wu Yuchang, Qing Shunzhi yi wei [12 nian, 1655]" ]
+  }, {
+    "label" : "Original Format",
+    "value" : [ "book" ]
+  }, {
+    "label" : "Subjects",
+    "value" : [ "yi jia lei", "zi bu" ]
+  }, {
+    "label" : "Online Format",
+    "value" : [ "image" ]
+  }, {
+    "label" : "Item Url",
+    "value" : "https://www.loc.gov/item/2012402594/"
+  } ],
+  "navDate" : "1655-01-01:T00:00:00Z",
+  "seeAlso" : [ {
+    "@id" : "https://lccn.loc.gov/2012402594/marcxml",
+    "format" : "text/xml"
+  }, {
+    "@id" : "https://lccn.loc.gov/2012402594/mods",
+    "format" : "text/xml"
+  }, {
+    "@id" : "https://lccn.loc.gov/2012402594/dc",
+    "format" : "text/html"
+  } ],
+  "sequences" : [ {
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "http://31d2b124-eefc-4c88-9822-ffe9473a0457",
+      "@type" : "sc:Canvas",
+      "label" : "29",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://544dc334-1f7f-42f7-9ec9-a7e5e937cf88",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:00001a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:00001a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://31d2b124-eefc-4c88-9822-ffe9473a0457"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0ecd0eb3-c6da-492a-8fd1-dbc9cf401b88",
+      "@type" : "sc:Canvas",
+      "label" : "30",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0a3f0dd6-3f55-4030-9d4a-f1a9f929d7a9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:01b02a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:01b02a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://0ecd0eb3-c6da-492a-8fd1-dbc9cf401b88"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dc9b96c1-526c-42c5-ba59-8dae1d5e7448",
+      "@type" : "sc:Canvas",
+      "label" : "31",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8bfa46a1-0bd7-486c-8232-de09827b4917",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:02b03a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:02b03a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://dc9b96c1-526c-42c5-ba59-8dae1d5e7448"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dedb4a7c-7bf2-46bb-989a-9d11b5b01f4f",
+      "@type" : "sc:Canvas",
+      "label" : "32",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9f1817f4-1d9f-43ff-89eb-8c59ebd666db",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:03b04a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:03b04a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://dedb4a7c-7bf2-46bb-989a-9d11b5b01f4f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://370e05d2-8773-42b1-9134-708657961248",
+      "@type" : "sc:Canvas",
+      "label" : "33",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://23284fc0-c66a-406b-bc1c-f1893d901329",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:04b05a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:04b05a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://370e05d2-8773-42b1-9134-708657961248"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8452db7c-1cea-457d-b340-dd74019afb2b",
+      "@type" : "sc:Canvas",
+      "label" : "34",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d03b6ea0-b458-48c8-8220-abe5f71ae0cc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:05b06a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:05b06a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://8452db7c-1cea-457d-b340-dd74019afb2b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fff1215f-f287-46fb-be98-64813cecc601",
+      "@type" : "sc:Canvas",
+      "label" : "35",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e675cce0-fb6b-4917-92d2-fcd39e82929b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:06b07a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:06b07a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://fff1215f-f287-46fb-be98-64813cecc601"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://539c49d8-82dd-4128-a457-a1c07ecb4dfa",
+      "@type" : "sc:Canvas",
+      "label" : "36",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dc30d645-3244-4695-8f8e-ffeaaabb0730",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:07b08a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:07b08a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://539c49d8-82dd-4128-a457-a1c07ecb4dfa"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://29e9de3d-ccd3-4436-968c-a1827b3a78de",
+      "@type" : "sc:Canvas",
+      "label" : "37",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://21d77f0e-7d03-4316-b491-65e8ffa83f40",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:08b09a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:08b09a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://29e9de3d-ccd3-4436-968c-a1827b3a78de"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b74f3c4f-f186-435f-abf7-41fdfde153be",
+      "@type" : "sc:Canvas",
+      "label" : "38",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9d5cbe0d-0f74-49b5-95a8-fa356f75c1fc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:09b10a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:09b10a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://b74f3c4f-f186-435f-abf7-41fdfde153be"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5eee48fa-3424-47c6-8a4b-76904347134e",
+      "@type" : "sc:Canvas",
+      "label" : "39",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://185aadb4-1a4e-48ec-84c8-193c3aacd38a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:10b11a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:10b11a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://5eee48fa-3424-47c6-8a4b-76904347134e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e4a7b487-62d7-4711-bdef-c5d403f09816",
+      "@type" : "sc:Canvas",
+      "label" : "40",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b0608fc4-8faa-471c-8050-3aa97679bb1c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:11b12a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:11b12a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://e4a7b487-62d7-4711-bdef-c5d403f09816"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8bf498ac-871b-4028-b3aa-4bcf33eafd63",
+      "@type" : "sc:Canvas",
+      "label" : "41",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0c550889-38a0-4d9e-a088-5e48a28a1723",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:12b13a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:12b13a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://8bf498ac-871b-4028-b3aa-4bcf33eafd63"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ad744661-938d-4978-a77f-9147ce99d8df",
+      "@type" : "sc:Canvas",
+      "label" : "42",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8b2a566d-c56d-46df-8486-c617cf7496d2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:13b14a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:13b14a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://ad744661-938d-4978-a77f-9147ce99d8df"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://73a668b5-ccf7-4424-aeb1-20434bb99ebc",
+      "@type" : "sc:Canvas",
+      "label" : "43",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3cc1f874-84cf-4d4c-a6f1-f675ba10af1d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:14b15a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:14b15a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://73a668b5-ccf7-4424-aeb1-20434bb99ebc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3eb41d21-f4a9-4389-8cc7-81d5b46ac96d",
+      "@type" : "sc:Canvas",
+      "label" : "44",
+      "height" : 2923,
+      "width" : 3421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f82b0164-8158-4f88-a6af-bbd38f557f69",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:15b16a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:15b16a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3421
+        },
+        "on" : "http://3eb41d21-f4a9-4389-8cc7-81d5b46ac96d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e3b33a08-47b7-4bc4-95db-ea77320e0c20",
+      "@type" : "sc:Canvas",
+      "label" : "45",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b52efab6-dd00-4f40-84f8-8e7ac4d2a7d3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:16b17a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:16b17a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://e3b33a08-47b7-4bc4-95db-ea77320e0c20"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c43b87f3-b4c6-454c-befb-1b06d736e667",
+      "@type" : "sc:Canvas",
+      "label" : "46",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2807f7a2-8ec9-4ecf-a5a7-e85c6b435081",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:17b18a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:17b18a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://c43b87f3-b4c6-454c-befb-1b06d736e667"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://26b7ceab-89fb-4114-bd8c-728f9de7b102",
+      "@type" : "sc:Canvas",
+      "label" : "47",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b143bd40-1a4a-4f3a-90b9-7dc742838401",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:18b19a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:18b19a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://26b7ceab-89fb-4114-bd8c-728f9de7b102"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9c31e7cd-ee57-4516-a83c-f3484f9df049",
+      "@type" : "sc:Canvas",
+      "label" : "48",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f3caffec-5796-4306-9464-d2e0bf34fee4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:19b20a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:19b20a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://9c31e7cd-ee57-4516-a83c-f3484f9df049"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7dda3a22-2cbe-4931-880f-3bf1b23f60aa",
+      "@type" : "sc:Canvas",
+      "label" : "49",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c0907f06-c785-441c-a9f0-43fc47ce4f40",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:20b21a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:20b21a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://7dda3a22-2cbe-4931-880f-3bf1b23f60aa"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://529e9cac-90d6-4ecc-bcd0-bee256d12b0f",
+      "@type" : "sc:Canvas",
+      "label" : "50",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5356a08b-220a-4370-a550-8dd9c976a7ca",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:21b22a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:21b22a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://529e9cac-90d6-4ecc-bcd0-bee256d12b0f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ff66362b-bc94-4057-9bd1-2731426332bb",
+      "@type" : "sc:Canvas",
+      "label" : "51",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://63d90af8-2a01-40ae-947f-1d48fb1e4318",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:22b23a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:22b23a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://ff66362b-bc94-4057-9bd1-2731426332bb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://639989b8-cb25-44ab-b886-7053a9247fb3",
+      "@type" : "sc:Canvas",
+      "label" : "52",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://54ac32b9-283e-405c-9f7c-7c501fdc41e8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:23b24a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:23b24a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://639989b8-cb25-44ab-b886-7053a9247fb3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0333a2c4-34ad-4858-ab37-ffd32432923b",
+      "@type" : "sc:Canvas",
+      "label" : "53",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2f20a748-c6e0-45e1-bed1-f38bcd62759e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:24b25a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:24b25a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://0333a2c4-34ad-4858-ab37-ffd32432923b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b0ab5b3d-b60c-4127-90f4-88695b5eda31",
+      "@type" : "sc:Canvas",
+      "label" : "54",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fd6643a9-7f23-4d82-b7ea-db7931eaca3f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:25b26a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:25b26a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://b0ab5b3d-b60c-4127-90f4-88695b5eda31"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e90d5991-adcc-4ea7-b4a8-7b50ac971d0e",
+      "@type" : "sc:Canvas",
+      "label" : "55",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://09b16dd9-67e6-4ef1-b048-05c238630851",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:26b27a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:26b27a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://e90d5991-adcc-4ea7-b4a8-7b50ac971d0e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f204e26b-deb2-4257-aaaf-794c153e956e",
+      "@type" : "sc:Canvas",
+      "label" : "56",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2fc2c74b-510d-4e3b-879a-7cee65a5bba7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:27b28a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:27b28a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://f204e26b-deb2-4257-aaaf-794c153e956e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f88d7130-2903-49cc-8a89-fb3eb13290a3",
+      "@type" : "sc:Canvas",
+      "label" : "57",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b9c35248-54cd-409b-9ac6-83da3831f022",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:28b29a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:28b29a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://f88d7130-2903-49cc-8a89-fb3eb13290a3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c8e92418-9636-4e6d-bb99-ea1f3ff73459",
+      "@type" : "sc:Canvas",
+      "label" : "58",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5b2c6757-0142-45d1-8541-6db3a2371cf2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:29b30a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:29b30a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://c8e92418-9636-4e6d-bb99-ea1f3ff73459"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d05daf04-02da-4ac2-9730-e97d89a44129",
+      "@type" : "sc:Canvas",
+      "label" : "59",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://af975898-8e76-4152-9a5c-7394cb73f8fd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:30b31a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:30b31a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://d05daf04-02da-4ac2-9730-e97d89a44129"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://98a9228a-5b90-49cd-9668-168e6a16ce8b",
+      "@type" : "sc:Canvas",
+      "label" : "60",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f1d2ce58-3cdd-4101-b61a-5cf379aa46af",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:31b32a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:31b32a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://98a9228a-5b90-49cd-9668-168e6a16ce8b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://eeff79e0-f157-43b3-8050-741319e3b9e6",
+      "@type" : "sc:Canvas",
+      "label" : "61",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9d1c0463-a5ed-4da5-8e0a-c53e99909612",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:32b33a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:32b33a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://eeff79e0-f157-43b3-8050-741319e3b9e6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ea715f7f-e7ab-4dc6-8cd1-63ee289dbe39",
+      "@type" : "sc:Canvas",
+      "label" : "62",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d68ec5c3-096d-4bd7-a63f-26708f76e9db",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:33b34a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:33b34a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://ea715f7f-e7ab-4dc6-8cd1-63ee289dbe39"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1802dfba-1dec-4f67-9f8d-dfdcfd9da681",
+      "@type" : "sc:Canvas",
+      "label" : "63",
+      "height" : 2923,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f8dae23d-3ff1-4238-b4a7-da3d59d2a110",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:34b35a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:34b35a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3409
+        },
+        "on" : "http://1802dfba-1dec-4f67-9f8d-dfdcfd9da681"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ca4ad5c9-60cb-4919-8135-dba08e01e8a9",
+      "@type" : "sc:Canvas",
+      "label" : "64",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7020e05a-865b-4c43-9243-cdcd3583a553",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:35b36a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:35b36a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://ca4ad5c9-60cb-4919-8135-dba08e01e8a9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e61950f5-cea8-4904-81d9-a5124fdff4d9",
+      "@type" : "sc:Canvas",
+      "label" : "65",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://71ed9095-d497-4029-a388-cdd8359f4a57",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:36b37a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:36b37a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://e61950f5-cea8-4904-81d9-a5124fdff4d9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0fe789ba-303d-4de9-81e5-441d0d1473b7",
+      "@type" : "sc:Canvas",
+      "label" : "66",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://15973206-2c3f-424b-917f-b57e69f26e9a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:37b38a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:37b38a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://0fe789ba-303d-4de9-81e5-441d0d1473b7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://82df7c5f-31c3-4826-8c6b-c190f0515f74",
+      "@type" : "sc:Canvas",
+      "label" : "67",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://41cd85fe-4999-45c5-9ee2-0311bebb7f7c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:38b39a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:38b39a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://82df7c5f-31c3-4826-8c6b-c190f0515f74"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://af7ed87f-14cb-41e1-8633-158bfda3e65c",
+      "@type" : "sc:Canvas",
+      "label" : "68",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e22d3982-ae88-49aa-8e56-b7fa98e0acd9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:39b40a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:39b40a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://af7ed87f-14cb-41e1-8633-158bfda3e65c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c10a9d18-0b8c-46b0-9aaa-eb01a4ab9055",
+      "@type" : "sc:Canvas",
+      "label" : "69",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://11854d1b-8932-4905-a069-c312e1aecc47",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:40b41a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:40b41a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://c10a9d18-0b8c-46b0-9aaa-eb01a4ab9055"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://851ef963-aa8c-4830-9000-42a6436b0da3",
+      "@type" : "sc:Canvas",
+      "label" : "70",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cc6adae2-63d1-42db-a347-015b3f2c2914",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:41b42a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:41b42a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://851ef963-aa8c-4830-9000-42a6436b0da3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4e2d4327-0461-44d0-af2a-58294c86bbf4",
+      "@type" : "sc:Canvas",
+      "label" : "71",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://872ec546-bcc4-4df4-8387-803f5b7876c3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:42b43a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:42b43a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://4e2d4327-0461-44d0-af2a-58294c86bbf4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://142288eb-cc5e-4fa1-98a7-ebd3e450cad4",
+      "@type" : "sc:Canvas",
+      "label" : "72",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://befba3a5-8089-4bd1-b7c1-af54a29afe4d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:43b44a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:43b44a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://142288eb-cc5e-4fa1-98a7-ebd3e450cad4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c57e08a1-9d34-4ae2-baf9-13857b265925",
+      "@type" : "sc:Canvas",
+      "label" : "73",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fa40c3eb-9a54-4393-b33c-fd3ba3d4dc65",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:44b45a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:44b45a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://c57e08a1-9d34-4ae2-baf9-13857b265925"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9d69bf95-7293-4a66-b897-10e9d13c82ab",
+      "@type" : "sc:Canvas",
+      "label" : "74",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://51fa22a9-c476-4dd2-a77c-5af78ea375f8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:45b46a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:45b46a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://9d69bf95-7293-4a66-b897-10e9d13c82ab"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a592e0d9-7273-4b26-8271-e045016de59f",
+      "@type" : "sc:Canvas",
+      "label" : "75",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://18121ef9-de2c-42ef-90c2-bd2b2a840dc3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:46b47a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:46b47a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://a592e0d9-7273-4b26-8271-e045016de59f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://496a4f4d-f66c-48a5-8e13-ccfd851c5c12",
+      "@type" : "sc:Canvas",
+      "label" : "76",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1fd7cdc1-a073-4a58-9211-b1ae70efcb9d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:47b48a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:47b48a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://496a4f4d-f66c-48a5-8e13-ccfd851c5c12"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0c939bf9-1305-4fe0-bd26-f466eee301fb",
+      "@type" : "sc:Canvas",
+      "label" : "77",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d9297ada-5407-4508-aaa8-cc6b419c8871",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:48b49a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:48b49a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://0c939bf9-1305-4fe0-bd26-f466eee301fb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ddbb86ac-a890-46ea-a335-5009144fde28",
+      "@type" : "sc:Canvas",
+      "label" : "78",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f329aa43-3111-42b9-b997-0d059c9be72f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:49b50a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:49b50a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://ddbb86ac-a890-46ea-a335-5009144fde28"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7892134c-094e-450f-992c-d09e3b6b1244",
+      "@type" : "sc:Canvas",
+      "label" : "79",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8df51bb0-119b-4ade-a962-708720c74045",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:50b51a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:50b51a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://7892134c-094e-450f-992c-d09e3b6b1244"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://92bf126c-6f13-4aeb-bfa1-32e40110b530",
+      "@type" : "sc:Canvas",
+      "label" : "80",
+      "height" : 2923,
+      "width" : 3391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cbd01d95-ff2b-4594-911d-a77e52b34170",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:51b000/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:51b000",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2923,
+          "width" : 3391
+        },
+        "on" : "http://92bf126c-6f13-4aeb-bfa1-32e40110b530"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://19f98821-5b79-4a64-8ced-950dac92a974",
+      "@type" : "sc:Canvas",
+      "label" : "81",
+      "height" : 2894,
+      "width" : 3420,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d40ed953-59fb-43fc-88e6-b78feeb7101b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:cover1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A001:cover1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2894,
+          "width" : 3420
+        },
+        "on" : "http://19f98821-5b79-4a64-8ced-950dac92a974"
+      } ],
+      "related" : ""
+    } ],
+    "label" : "Order of the views"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402613:1A001:cover1/full/pct:12.5/0/default.jpg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "http://www.loc.gov/item/2012402594/",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "viewingDirection" : "left-to-right",
+  "viewingHint" : "paged"
+}
