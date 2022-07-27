@@ -1,0 +1,117 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/test.json",
+  "@type" : "sc:Manifest",
+  "label" : "本草纲目：百病主治药",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "五十二册四函。五十二卷四例。清乾隆四十九年书业堂刻本·白单边白黑单鱼尾版匡高21.2宽14.1公分全书高24.7宽16.1公分黄纸。九行二十字。九个字符，每行二十个字符。书名叶有朱印题《上海二马路，千顷堂内玉山房发兑书》，应购自上海。书名叶正中题《本草纲目》，右题《李时珍堂先生》，左郡书万线刻《苏后学张云中重订、张青万同参，业镌藏》，匡上眉题“乾隆甲辰年（四十九年，1784）”。正文卷端题“本草纲目序例第一卷上”，下署“蕲阳李时珍东璧父编辑，苏郡张鹤翥云中较较正文前有顺治乙未（1655）吴太冲序，顺治乙未吴毓昌序，崇祯庚辰（1640）钱蔚起小引，万历二十四年（1596）李建元疏，凡例，总目，图三卷。卷末有《考证诸书目》，先《本湖草脉学》一卷，《经八脉考》一卷。卷后附蔡烈万道线》八卷，《本草药品总目》一卷。此本与上本顺治十二年钱塘吴毓昌刻本极近，应据以所刻。",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://16110ed3-6f34-47ec-9fcf-83643ce82f59",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ae8dda3c-fcf1-4fe7-a800-9fb789a808be",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 3135,
+      "width" : 3420,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c198f3ff-733b-402d-9b17-8522feae9809",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402613:1B004:00001a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402613:1B004:00001a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 3135,
+          "width" : 3420
+        },
+        "on" : "http://ae8dda3c-fcf1-4fe7-a800-9fb789a808be"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d2047493-89af-4f1f-befa-3bcd7b1bd5a5",
+      "@type" : "sc:Canvas",
+      "label" : "2",
+      "height" : 3111,
+      "width" : 3420,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://87212056-7394-4e81-90b4-acbcf7af2400",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402613:1B004:00056a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402613:1B004:00056a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 3111,
+          "width" : 3420
+        },
+        "on" : "http://d2047493-89af-4f1f-befa-3bcd7b1bd5a5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://70bb9ce6-5735-414d-8234-579422fb3154",
+      "@type" : "sc:Canvas",
+      "label" : "3",
+      "height" : 2871,
+      "width" : 3507,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://92123c7e-204d-47b1-b0eb-06b285033c4e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402613:1B004:cover9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402613:1B004:cover9",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+            } ]
+          },
+          "height" : 2871,
+          "width" : 3507
+        },
+        "on" : "http://70bb9ce6-5735-414d-8234-579422fb3154"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "viewingDirection" : "right-to-left",
+  "thumbnail" : {
+    "@id" : "http://70bb9ce6-5735-414d-8234-579422fb3154"
+  }
+}
