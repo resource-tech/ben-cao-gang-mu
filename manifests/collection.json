@@ -11,10 +11,6 @@
     "label" : "本草纲目：百病主治药"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/perface1.json",
-    "label" : "本草纲目：前言"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/volume-1.json",
     "label" : "本草纲目：第一卷"
   }, {
