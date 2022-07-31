@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://sunyanling123.github.io/ben-cao-gang-mu/annotations/perface1.json" ],
+  "otherContent" : [ ],
   "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/annotations/collection.json",
   "label" : "All annotations loaded in sunyanling123/ben-cao-gang-mu project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
