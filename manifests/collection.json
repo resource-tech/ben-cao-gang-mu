@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/V1.json",
     "label" : "本草纲目：第一卷"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/V-1.json",
+    "label" : "本草纲目：第一卷"
   } ]
 }
