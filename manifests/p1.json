@@ -1,0 +1,46 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/p1.json",
+  "@type" : "sc:Manifest",
+  "label" : "封面",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "本草纲目的封面信息",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://7a4905fe-141c-497a-8718-b8e51cd52110",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://3d143220-0da0-42fc-80de-067677074857",
+      "@type" : "sc:Canvas",
+      "label" : "p1",
+      "height" : 3140,
+      "width" : 3380,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5adc3bb7-8dca-4979-a11a-946075f12f6f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/p1.tif/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/p1.tif",
+            "profile" : "level2"
+          },
+          "height" : 3140,
+          "width" : 3380
+        },
+        "on" : "http://3d143220-0da0-42fc-80de-067677074857"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
