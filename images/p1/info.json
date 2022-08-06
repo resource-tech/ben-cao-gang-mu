@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 106,
+    "height" : 99
+  }, {
+    "width" : 212,
+    "height" : 197
+  }, {
+    "width" : 423,
+    "height" : 393
+  }, {
+    "width" : 845,
+    "height" : 785
+  }, {
+    "width" : 1690,
+    "height" : 1570
+  }, {
+    "width" : 3380,
+    "height" : 3140
+  } ],
+  "profile" : "level0",
+  "width" : 3380,
+  "id" : "https://sunyanling123.github.io/ben-cao-gang-mu/images/p1",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3140
+}
