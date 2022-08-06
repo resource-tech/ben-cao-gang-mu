@@ -3,11 +3,6 @@
   "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/p1.json",
   "@type" : "sc:Manifest",
   "label" : "封面",
-  "service": {
-    "profile": "http://iiif.io/api/search/0/search",
-    "@id": "https://dev.gdmrdigital.com/search-api/1245635613/94661074/b87d34d9be9aa927a08230efe1cc6f1f/search",
-    "@context": "http://iiif.io/api/search/0/context.json"
-},
   "metadata" : [ ],
   "description" : [ {
     "@value" : "本草纲目的封面信息",
