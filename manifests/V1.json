@@ -5,11 +5,6 @@
   "attribution" : "Provided by the Library of Congress",
   "description" : "五十二册四函。五十二卷四例。清乾隆四十九年书业堂刻本·白单边白黑单鱼尾版匡高21.2宽14.1公分全书高24.7宽16.1公分黄纸。九行二十字。九个字符，每行二十个字符。书名叶有朱印题《上海二马路，千顷堂内玉山房发兑书》，应购自上海。书名叶正中题《本草纲目》，右题《李时珍堂先生》，左郡书万线刻《苏后学张云中重订、张青万同参，业镌藏》，匡上眉题“乾隆甲辰年（四十九年，1784）”。正文卷端题“本草纲目序例第一卷上”，下署“蕲阳李时珍东璧父编辑，苏郡张鹤翥云中较较正文前有顺治乙未（1655）吴太冲序，顺治乙未吴毓昌序，崇祯庚辰（1640）钱蔚起小引，万历二十四年（1596）李建元疏，凡例，总目，图三卷。卷末有《考证诸书目》，先《本湖草脉学》一卷，《经八脉考》一卷。卷后附蔡烈万道线》八卷，《本草药品总目》一卷。此本与上本顺治十二年钱塘吴毓昌刻本极近，应据以所刻。",
   "label" : "本草纲目：第一卷",
-  "service": {
-    "profile": "http://iiif.io/api/search/0/search",
-    "@id": "http://localhost:8888/search-api/a676dbce663ffd9ba36a72ce8dbeccb7/search",
-    "@context": "http://iiif.io/api/search/0/context.json"
-},
   "logo" : "https://loc.gov/static/images/logo-loc-new-branding.svg",
   "metadata" : [ {
     "label" : "APA Citation Style",
