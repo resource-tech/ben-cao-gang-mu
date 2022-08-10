@@ -3,11 +3,11 @@
   "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/V3.json",
   "@type" : "sc:Manifest",
   "label" : "本草綱目 : 第三卷",
-  "service": {
-    "profile": "http://iiif.io/api/search/0/search",
-    "@id": "http://localhost:8888/search-api/a0534ff53f453b7a478b1850b1930e85/search",
-    "@context": "http://iiif.io/api/search/0/context.json"
-},
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "http://localhost:8888/search-api/a0534ff53f453b7a478b1850b1930e85/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : " 清順治十二年錢塘吳毓昌刻本 四周單邊 白口 黑單魚尾 版匡高21.3寬14.2公分 全書高24.5寬15.5公分 黃紙.",
@@ -500,6 +500,11 @@
           "width" : 3435
         },
         "on" : "http://2f179c60-dba3-42f8-89fc-4b4f094bfa88"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://gist.githubusercontent.com/sunyanling123/52d5951c042f2c78d7dbefb386d6e04c/raw/82db9a78d5c09498e6d896adaeca06d08f0de336/canvas16.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
