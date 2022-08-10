@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/V3.json",
     "label" : "本草綱目 : 第三卷"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/Artemisia-argyi.json",
+    "label" : "本草綱目 : 第三卷"
   } ]
 }
